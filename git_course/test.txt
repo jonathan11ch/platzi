@@ -1,3 +1,6 @@
 este es un archivo de prueba para practicar git commands
 
 Cambios hechos
+
+La historia de simba
+
