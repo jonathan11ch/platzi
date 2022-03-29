@@ -2,5 +2,5 @@ este es un archivo de prueba para practicar git commands
 
 Cambios hechos
 
-La historia de simba contada desde hoy
+La historia de simba
 
