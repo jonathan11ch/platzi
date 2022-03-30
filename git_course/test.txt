@@ -6,3 +6,4 @@ La historia de simba contada desde hoy
 
 probando el comando commit -am 
 
+continuo la historia de mi gato en el main branch 
